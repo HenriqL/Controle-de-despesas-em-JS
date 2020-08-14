@@ -6,6 +6,10 @@
 
 ## 🔖 Sobre
 
+A aplicação consiste em um controle de despesas básico, onde os valores serão acrescentados, somados e subtraídos automaticamente. Toda e qualquer transação será salva no '''local storage''' do seu navegador. Ou seja, mesmo que você atualize a pagina, os não vão ser alterados.
+
+---
+
 ## 🚀 Tecnologias usadas
 
 - HTML5;
@@ -25,3 +29,6 @@ Contribuições são o que fazem a comunidade open-source um lugar incrível. Qu
 ---
 ## 📝 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/HenriqL/Controle-de-despesas-em-JS/blob/master/LICENSE) para mais detalhes.
+
+---
+Feito com ❤️ por **Henrique Silva** 👋🏽 **[Entre em contato](linkedin.com/in/henrique-silva-9a6b9a1b4)**
