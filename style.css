@@ -18,7 +18,7 @@ body {
   min-height: 100vh;
   margin: 0;
   font-family: 'Lato', sans-serif;
-}
+  }
 
 .container {
   margin: 30px auto;
@@ -92,11 +92,12 @@ input[type='number'] {
   font-size: 16px;
   padding: 10px;
   width: 100%;
+  outline: none;
 }
 
 .btn {
   cursor: pointer;
-  background-color: #9c88ff;
+  background-color: #333333;
   box-shadow: var(--box-shadow);
   color: #fff;
   border: 0;
